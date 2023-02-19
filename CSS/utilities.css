@@ -58,6 +58,15 @@
     color: #333;
 }
 
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+    color: #fff;
+}
+
 /* Text sizes */
 .lead {
     font-size: 20px;
@@ -182,4 +191,9 @@
 
 .p-5 {
     padding: 4rem;
+}
+
+/* Footer */
+.footer .social a {
+    margin: 0 10px;
 }
